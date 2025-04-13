@@ -1,4 +1,5 @@
 🚦 Reinforcement Learning for Traffic Signal Control 🚗
+
 Project Overview 🧠
 This project uses Reinforcement Learning (RL) to optimize the control of traffic signals at intersections. We employ the Gensyn RL Environment to simulate real-time traffic conditions and train an RL agent that dynamically controls the traffic lights to improve traffic flow, reduce congestion, and minimize environmental impact.
 
